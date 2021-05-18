@@ -1,6 +1,10 @@
-## Konnect Demo
+## Konnect
 
-(demo/konnect.gif)
+This messenger bot is made in hopes of overcoming the language barrier between my relatives and I when communicating with each other over text.
+
+## Demo
+
+![konnect](https://user-images.githubusercontent.com/32558251/118592649-4bc19800-b774-11eb-9154-a19d94f36b31.gif)
 
 This project was bootstrapped with
 [Bottender](https://github.com/Yoctol/bottender) init script.
