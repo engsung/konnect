@@ -6,14 +6,6 @@ This messenger bot is made in hopes of overcoming the language barrier between m
 
 ![konnect](https://user-images.githubusercontent.com/32558251/118592649-4bc19800-b774-11eb-9154-a19d94f36b31.gif)
 
-This project was bootstrapped with
-[Bottender](https://github.com/Yoctol/bottender) init script.
-
-## Sending Feedback
-
-Always feel free to open an issue to
-[Bottender](https://github.com/Yoctol/bottender/issues) repository.
-
 ## Configuration
 
 ### The `bottender.config.js` File
@@ -40,7 +32,6 @@ To run in [Console Mode](https://bottender.js.org/docs/en/the-basics-console-mod
 
 ```sh
 npm run dev -- --console
-yarn dev --console
 ```
 
 ### `npm start`
@@ -48,23 +39,3 @@ yarn dev --console
 Runs the app in production mode.<br>
 By default, server runs on [http://localhost:5000](http://localhost:5000).
 
-To run in [Console Mode](https://bottender.js.org/docs/en/the-basics-console-mode), provide the `--console` option:
-
-```sh
-npm start -- --console
-yarn start --console
-```
-
-### `npm run lint`
-
-Runs the linter rules using [Eslint](https://eslint.org/).
-
-### `npm test`
-
-Runs the test cases using [Jest](https://jestjs.io/).
-
-## Learn More
-
-To learn Bottender, check out the [Bottender documentation](https://bottender.js.org/docs/en/getting-started).
-
-For more examples, see [Bottender examples](https://github.com/Yoctol/bottender/tree/master/examples).
